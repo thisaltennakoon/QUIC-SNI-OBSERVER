@@ -1,0 +1,4 @@
+services:
+  observer:
+    image: ghcr.io/thisaltennakoon/quic-sni-observer:latest
+    build: .
